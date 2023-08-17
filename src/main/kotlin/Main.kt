@@ -137,4 +137,3 @@ object CancelShutdownCmd : CommandExecutor {
                 return true
         }
 }
-// hi hello
